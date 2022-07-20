@@ -1,1 +1,1 @@
-from Malang- import m01
+from Malang import m01
